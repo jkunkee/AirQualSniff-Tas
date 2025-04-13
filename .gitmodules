@@ -1,0 +1,3 @@
+[submodule "Tasmota"]
+	path = Tasmota
+	url = .\\Tasmota
